@@ -24,7 +24,7 @@ font-family: 'Electrolize', sans-serif; */
   padding: 0px 10px 30px 10px;
   background: rgb(0, 0, 0, .5);
   position:relative;
-    animation: bounce 500ms infinite alternate;
+  animation: bounce 500ms infinite alternate;
   -webkit-animation: bounce 500ms infinite alternate;
   border-radius: 10px;
 }
