@@ -17,7 +17,8 @@ exports[`ParentDashboard component testing renders UI as expected 1`] = `
       2. Add Members to your household
     </p>
     <p>
-      3. Manage your households tasks by clicking 
+      3. Manage your households tasks by clicking
+       
       <span>
         'See Household'
       </span>
@@ -38,7 +39,8 @@ exports[`ParentDashboard component testing renders UI as expected 1`] = `
           className="add-house-label"
           htmlFor="householdName"
         >
-           ADD HOUSEHOLD:
+           
+          ADD HOUSEHOLD:
         </label>
         <input
           name="householdName"

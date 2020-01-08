@@ -7,6 +7,19 @@ exports[`MemberLogin component testing renders UI as expected 1`] = `
   <h2>
     Member login
   </h2>
+  <div
+    className="demo"
+  >
+    <h3>
+      Demo:
+    </h3>
+    <p>
+      username: bartman
+    </p>
+    <p>
+      password: bartman
+    </p>
+  </div>
   <form
     className="parent-form-container"
     id="member-login"
@@ -59,6 +72,19 @@ exports[`MemberLogin component testing renders empty given no tabs 1`] = `
   <h2>
     Member login
   </h2>
+  <div
+    className="demo"
+  >
+    <h3>
+      Demo:
+    </h3>
+    <p>
+      username: bartman
+    </p>
+    <p>
+      password: bartman
+    </p>
+  </div>
   <form
     className="parent-form-container"
     id="member-login"

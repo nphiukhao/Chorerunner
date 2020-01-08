@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "alias": "chorerunner-app",
-  "name": "chorerunner-app",
+  "alias": "chorerunner",
+  "name": "chorerunner",
   "routes": [
       { "handle": "filesystem" },
       { "src": "/.*", "dest": "/index.html" }

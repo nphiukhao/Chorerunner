@@ -1,5 +1,6 @@
 export default {
-  API_ENDPOINT: 'http://localhost:8000/api',
+  API_ENDPOINT: 'https://limitless-headland-78574.herokuapp.com/api',
   TOKEN_KEY: 'chorerunner-jwt-secret', 
   TYPE: 'type'
 }
+//https://limitless-headland-78574.herokuapp.com/ 
