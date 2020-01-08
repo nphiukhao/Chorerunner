@@ -3,4 +3,6 @@ export default {
   TOKEN_KEY: 'chorerunner-jwt-secret', 
   TYPE: 'type'
 }
-//https://limitless-headland-78574.herokuapp.com/ 
+//'https://limitless-headland-78574.herokuapp.com/api'
+
+//http://localhost:8000

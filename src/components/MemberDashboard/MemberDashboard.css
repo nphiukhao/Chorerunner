@@ -1,6 +1,6 @@
 .memberDashboard {
   position: relative;
-  height: 85vh;
+  height: 70vh;
   padding: 15vh 0;
   overflow-y: auto;
   background-image: url('../../ImgAssets/ChoreRunner.png');
@@ -169,7 +169,7 @@
 @media screen and (min-width: 600px) {
   .memberDashboard {
     position: relative;
-    height: 85vh;
+    height: 70vh;
     overflow-y: auto;
     background-image: url("../../ImgAssets/ChoreRunner.png");
     background-size: cover;
