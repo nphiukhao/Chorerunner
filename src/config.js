@@ -4,5 +4,4 @@ export default {
   TYPE: 'type'
 }
 //'https://limitless-headland-78574.herokuapp.com/api'
-
-//http://localhost:8000
+//for local testing: http://localhost:8000
