@@ -98,7 +98,7 @@ export default class HouseholdPage extends Component {
 
     return (
       <div className="household-page-container">
-        <h2>Household page</h2>
+        {/* <h2>Household page</h2> */}
         <div className='top-buttons-cont'>
           <AddTask
             members={this.state.membersList}
