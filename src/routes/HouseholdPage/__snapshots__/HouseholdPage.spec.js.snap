@@ -4,9 +4,6 @@ exports[`HouseholdPage component testing renders UI as expected 1`] = `
 <div
   className="household-page-container"
 >
-  <h2>
-    Household page
-  </h2>
   <div
     className="top-buttons-cont"
   >
